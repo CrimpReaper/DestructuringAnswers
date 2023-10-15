@@ -1,0 +1,36 @@
+
+
+1) numPlanets logs: 8
+2) yearNeptuneDiscovered logs: 1846
+
+3) discoveryYears logs: 1846, 1659
+
+4) "Your name is Alejandro and you like purple"
+5) "Your name is Melissa and you like green"
+
+6) Maya
+7) Marisa
+8) Chi
+
+9) "Raindrops on roses"
+10) "whiskers on kittens"
+11) "Bright copper kettles", "warm woolen mittens", "Brown paper packages tied up with strings"
+
+12) [20, 10, 30]
+
+13)
+const obj = {
+    numbers: {
+        a: 1,
+        b: 2
+    }
+};
+
+const {a, b} = obj;
+
+14) 
+let arr = [1,2];
+[1,2] = [2,1];
+
+15) const raceResults = ([first, second, third, ...rest]) => ({first, second, third, rest});
+16) const raceResults = ([first, second, third, ...rest]) => ({first, second, third, rest});
